@@ -1,0 +1,9 @@
+/Users/mac/XamarinSpace/ServerFrameWork/MultiServer/LoginServer/bin/Debug/LoginServer.exe
+/Users/mac/XamarinSpace/ServerFrameWork/MultiServer/LoginServer/bin/Debug/LoginServer.pdb
+/Users/mac/XamarinSpace/ServerFrameWork/MultiServer/LoginServer/bin/Debug/CommonLib.dll
+/Users/mac/XamarinSpace/ServerFrameWork/MultiServer/LoginServer/bin/Debug/CommonLib.pdb
+/Users/mac/XamarinSpace/ServerFrameWork/MultiServer/LoginServer/obj/anycpu/Debug/LoginServer.csproj.AssemblyReference.cache
+/Users/mac/XamarinSpace/ServerFrameWork/MultiServer/LoginServer/obj/anycpu/Debug/LoginServer.csproj.CoreCompileInputs.cache
+/Users/mac/XamarinSpace/ServerFrameWork/MultiServer/LoginServer/obj/anycpu/Debug/LoginServer.csproj.CopyComplete
+/Users/mac/XamarinSpace/ServerFrameWork/MultiServer/LoginServer/obj/anycpu/Debug/LoginServer.exe
+/Users/mac/XamarinSpace/ServerFrameWork/MultiServer/LoginServer/obj/anycpu/Debug/LoginServer.pdb

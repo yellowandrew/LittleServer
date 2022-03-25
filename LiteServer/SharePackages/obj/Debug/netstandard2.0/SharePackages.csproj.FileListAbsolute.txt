@@ -1,0 +1,13 @@
+/Users/mac/XamarinSpace/ServerFrameWork/MultiServer/SharePackages/bin/Debug/netstandard2.0/SharePackages.deps.json
+/Users/mac/XamarinSpace/ServerFrameWork/MultiServer/SharePackages/bin/Debug/netstandard2.0/SharePackages.dll
+/Users/mac/XamarinSpace/ServerFrameWork/MultiServer/SharePackages/bin/Debug/netstandard2.0/SharePackages.pdb
+/Users/mac/XamarinSpace/ServerFrameWork/MultiServer/SharePackages/bin/Debug/netstandard2.0/CommonLib.dll
+/Users/mac/XamarinSpace/ServerFrameWork/MultiServer/SharePackages/bin/Debug/netstandard2.0/CommonLib.pdb
+/Users/mac/XamarinSpace/ServerFrameWork/MultiServer/SharePackages/obj/Debug/netstandard2.0/SharePackages.csproj.AssemblyReference.cache
+/Users/mac/XamarinSpace/ServerFrameWork/MultiServer/SharePackages/obj/Debug/netstandard2.0/SharePackages.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/XamarinSpace/ServerFrameWork/MultiServer/SharePackages/obj/Debug/netstandard2.0/SharePackages.AssemblyInfoInputs.cache
+/Users/mac/XamarinSpace/ServerFrameWork/MultiServer/SharePackages/obj/Debug/netstandard2.0/SharePackages.AssemblyInfo.cs
+/Users/mac/XamarinSpace/ServerFrameWork/MultiServer/SharePackages/obj/Debug/netstandard2.0/SharePackages.csproj.CoreCompileInputs.cache
+/Users/mac/XamarinSpace/ServerFrameWork/MultiServer/SharePackages/obj/Debug/netstandard2.0/SharePackages.csproj.CopyComplete
+/Users/mac/XamarinSpace/ServerFrameWork/MultiServer/SharePackages/obj/Debug/netstandard2.0/SharePackages.dll
+/Users/mac/XamarinSpace/ServerFrameWork/MultiServer/SharePackages/obj/Debug/netstandard2.0/SharePackages.pdb
