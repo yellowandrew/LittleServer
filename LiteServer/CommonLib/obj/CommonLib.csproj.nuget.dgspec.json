@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mac/XamarinSpace/ServerFrameWork/LiteServer/CommonLib/CommonLib.csproj": {}
+    "/Users/mac/MyGithub/LittleServer/LiteServer/CommonLib/CommonLib.csproj": {}
   },
   "projects": {
-    "/Users/mac/XamarinSpace/ServerFrameWork/LiteServer/CommonLib/CommonLib.csproj": {
+    "/Users/mac/MyGithub/LittleServer/LiteServer/CommonLib/CommonLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mac/XamarinSpace/ServerFrameWork/LiteServer/CommonLib/CommonLib.csproj",
+        "projectUniqueName": "/Users/mac/MyGithub/LittleServer/LiteServer/CommonLib/CommonLib.csproj",
         "projectName": "CommonLib",
-        "projectPath": "/Users/mac/XamarinSpace/ServerFrameWork/LiteServer/CommonLib/CommonLib.csproj",
+        "projectPath": "/Users/mac/MyGithub/LittleServer/LiteServer/CommonLib/CommonLib.csproj",
         "packagesPath": "/Users/mac/.nuget/packages/",
-        "outputPath": "/Users/mac/XamarinSpace/ServerFrameWork/LiteServer/CommonLib/obj/",
+        "outputPath": "/Users/mac/MyGithub/LittleServer/LiteServer/CommonLib/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mac/.config/NuGet/NuGet.Config"
@@ -43,6 +43,10 @@
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[4.5.0, )"
             }
           },
           "imports": [

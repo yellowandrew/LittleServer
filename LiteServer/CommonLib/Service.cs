@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Configuration;
+using System.Xml;
 namespace CommonLib
 {
     public enum NetType {
@@ -11,26 +13,48 @@ namespace CommonLib
     }
     public class Service
     {
+        HandlerManager manager;
+        Parser parser;
+        int mainport = 5678;
+        int subport = 5679;
         public Service()
         {
+            manager = new HandlerManager();
+            parser = new Parser();
         }
-
-        MasterTcpServer masterTcp;
-        SubTcpServer subTcp;
+       
         public void Start() {
-            masterTcp = new MasterTcpServer(new Parser(),5678);
-            subTcp = new SubTcpServer(new Parser(), 5679);
-
-            masterTcp.OnRepackageData += subTcp.OnInternalData;
-            subTcp.OnWorkerData += masterTcp.OnInternalData;
-            
-
-            masterTcp.Start();
-            subTcp.Start();
+           // masterTcp.OnRepackageData += subTcp.OnInternalData;
+           // subTcp.OnWorkerData += masterTcp.OnInternalData;
+           // masterTcp.Start();
+           // subTcp.Start();
         }
 
-        public void LoadConfig() { }
+        public void LoadServer() {
+            string sv = ConfigurationManager.AppSettings[""];
+        }
 
-        
+        SingleTcpServer CreateSingleTcp() {
+            return new SingleTcpServer(manager, parser, mainport);
+        }
+
+        SingleUdpServer CreateSingleUdp() {
+            return new SingleUdpServer(manager, parser, mainport);
+        }
+
+        MasterTcpServer CreateMasterTcp() {
+            return new MasterTcpServer(parser, mainport);
+        }
+        SubTcpServer CreateSubTcp() {
+            return new SubTcpServer(parser, subport);
+        }
+
+        MasterUdpServer CreateMasterUcp() {
+            return new MasterUdpServer();
+        }
+
+        SubUdpServer CreateSubUdp() {
+            return new SubUdpServer();
+        }
     }
 }

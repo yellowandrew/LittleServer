@@ -1,25 +1,24 @@
 ﻿<Properties StartupConfiguration="{588867E7-F6C3-4269-BD9D-5AEE20617705}|Default">
   <MonoDevelop.Ide.ItemProperties.CenterServer PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="CenterServer/Handlers.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CommonLib/Service.cs">
     <Files>
-      <File FileName="CommonLib/SingleTcpServer.cs" Line="20" Column="1" />
-      <File FileName="SharePackages/Packages.cs" />
-      <File FileName="LoginServer/Program.cs" />
-      <File FileName="CommonLib/NetPackage.cs" />
-      <File FileName="SharePackages/PackageType.cs" />
-      <File FileName="LoginServer/Handlers.cs" />
-      <File FileName="CommonLib/Parser.cs" />
-      <File FileName="CenterServer/Program.cs" />
-      <File FileName="CenterServer/Handlers.cs" Line="24" Column="24" />
-      <File FileName="CommonLib/HandlerManager.cs" />
+      <File FileName="CommonLib/Service.cs" Line="27" Column="52" />
+      <File FileName="CenterServer/App.config" Line="6" Column="38" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="LiteServer" expanded="True" selected="True">
+          <Node name="LiteServer" expanded="True">
             <Node name="CenterServer" expanded="True" />
-            <Node name="LoginServer" expanded="True" />
-            <Node name="SharePackages" expanded="True" />
+            <Node name="CommonLib" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True">
+                  <Node name="System.Configuration.ConfigurationManager" selected="True" />
+                </Node>
+                <Node name="SdkDependencies" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="FightServer" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -34,7 +33,7 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
-      <Breakpoint file="/Users/mac/XamarinSpace/ServerFrameWork/LiteServer/CommonLib/NetConnection.cs" relfile="CommonLib/NetConnection.cs" line="17" column="1" />
+      <Breakpoint file="/Users/mac/MyGithub/LittleServer/LiteServer/CommonLib/NetConnection.cs" relfile="CommonLib/NetConnection.cs" line="17" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />

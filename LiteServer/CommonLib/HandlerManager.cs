@@ -52,7 +52,6 @@ namespace CommonLib
                 m.Invoke(h, new object[] { connection, package, parser,endpoint });
             }
 
-            Logger.Info("breakPoint");
         }
         
     }
