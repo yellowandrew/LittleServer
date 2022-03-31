@@ -11,3 +11,16 @@
 /Users/mac/XamarinSpace/ServerFrameWork/MultiServer/SharePackages/obj/Debug/netstandard2.0/SharePackages.csproj.CopyComplete
 /Users/mac/XamarinSpace/ServerFrameWork/MultiServer/SharePackages/obj/Debug/netstandard2.0/SharePackages.dll
 /Users/mac/XamarinSpace/ServerFrameWork/MultiServer/SharePackages/obj/Debug/netstandard2.0/SharePackages.pdb
+/Users/mac/MyGithub/LittleServer/LiteServer/SharePackages/bin/Debug/netstandard2.0/SharePackages.deps.json
+/Users/mac/MyGithub/LittleServer/LiteServer/SharePackages/bin/Debug/netstandard2.0/SharePackages.dll
+/Users/mac/MyGithub/LittleServer/LiteServer/SharePackages/bin/Debug/netstandard2.0/SharePackages.pdb
+/Users/mac/MyGithub/LittleServer/LiteServer/SharePackages/bin/Debug/netstandard2.0/CommonLib.dll
+/Users/mac/MyGithub/LittleServer/LiteServer/SharePackages/bin/Debug/netstandard2.0/CommonLib.pdb
+/Users/mac/MyGithub/LittleServer/LiteServer/SharePackages/obj/Debug/netstandard2.0/SharePackages.csproj.AssemblyReference.cache
+/Users/mac/MyGithub/LittleServer/LiteServer/SharePackages/obj/Debug/netstandard2.0/SharePackages.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/MyGithub/LittleServer/LiteServer/SharePackages/obj/Debug/netstandard2.0/SharePackages.AssemblyInfoInputs.cache
+/Users/mac/MyGithub/LittleServer/LiteServer/SharePackages/obj/Debug/netstandard2.0/SharePackages.AssemblyInfo.cs
+/Users/mac/MyGithub/LittleServer/LiteServer/SharePackages/obj/Debug/netstandard2.0/SharePackages.csproj.CoreCompileInputs.cache
+/Users/mac/MyGithub/LittleServer/LiteServer/SharePackages/obj/Debug/netstandard2.0/SharePackages.csproj.CopyComplete
+/Users/mac/MyGithub/LittleServer/LiteServer/SharePackages/obj/Debug/netstandard2.0/SharePackages.dll
+/Users/mac/MyGithub/LittleServer/LiteServer/SharePackages/obj/Debug/netstandard2.0/SharePackages.pdb

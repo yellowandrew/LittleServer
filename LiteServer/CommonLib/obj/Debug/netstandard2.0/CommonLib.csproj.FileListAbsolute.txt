@@ -7,3 +7,13 @@
 /Users/mac/XamarinSpace/ServerFrameWork/MultiServer/CommonLib/obj/Debug/netstandard2.0/CommonLib.csproj.CoreCompileInputs.cache
 /Users/mac/XamarinSpace/ServerFrameWork/MultiServer/CommonLib/obj/Debug/netstandard2.0/CommonLib.dll
 /Users/mac/XamarinSpace/ServerFrameWork/MultiServer/CommonLib/obj/Debug/netstandard2.0/CommonLib.pdb
+/Users/mac/MyGithub/LittleServer/LiteServer/CommonLib/bin/Debug/netstandard2.0/CommonLib.deps.json
+/Users/mac/MyGithub/LittleServer/LiteServer/CommonLib/bin/Debug/netstandard2.0/CommonLib.dll
+/Users/mac/MyGithub/LittleServer/LiteServer/CommonLib/bin/Debug/netstandard2.0/CommonLib.pdb
+/Users/mac/MyGithub/LittleServer/LiteServer/CommonLib/obj/Debug/netstandard2.0/CommonLib.csproj.AssemblyReference.cache
+/Users/mac/MyGithub/LittleServer/LiteServer/CommonLib/obj/Debug/netstandard2.0/CommonLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/MyGithub/LittleServer/LiteServer/CommonLib/obj/Debug/netstandard2.0/CommonLib.AssemblyInfoInputs.cache
+/Users/mac/MyGithub/LittleServer/LiteServer/CommonLib/obj/Debug/netstandard2.0/CommonLib.AssemblyInfo.cs
+/Users/mac/MyGithub/LittleServer/LiteServer/CommonLib/obj/Debug/netstandard2.0/CommonLib.csproj.CoreCompileInputs.cache
+/Users/mac/MyGithub/LittleServer/LiteServer/CommonLib/obj/Debug/netstandard2.0/CommonLib.dll
+/Users/mac/MyGithub/LittleServer/LiteServer/CommonLib/obj/Debug/netstandard2.0/CommonLib.pdb

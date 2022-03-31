@@ -16,6 +16,7 @@ namespace CommonLib
         Dictionary<UInt32, Type> packagetypes = new Dictionary<UInt32, Type>();
         public Parser(Assembly asm = null)
         {
+            
             if (asm == null)
             {
                 AssemblyName[] assemblies = Assembly.GetEntryAssembly().GetReferencedAssemblies();
@@ -27,8 +28,10 @@ namespace CommonLib
             else {
                 GetPackage(asm);
             }
+
             
 
+            //GetPackage(Assembly.GetCallingAssembly());
             foreach (var item in packagetypes.Values)
             {
                 Logger.Info($"FInd Package: {item.Name }");
